@@ -35,15 +35,15 @@ const client_manifest = {
     "file": "primeicons.5e10f102.svg",
     "src": "node_modules/primeicons/fonts/primeicons.svg"
   },
-  "node_modules/@nuxt/ui-templates/dist/templates/error-404.css": {
-    "resourceType": "style",
-    "file": "error-404.23f2309d.css",
-    "src": "node_modules/@nuxt/ui-templates/dist/templates/error-404.css"
-  },
   "node_modules/@nuxt/ui-templates/dist/templates/error-500.css": {
     "resourceType": "style",
     "file": "error-500.aa16ed4d.css",
     "src": "node_modules/@nuxt/ui-templates/dist/templates/error-500.css"
+  },
+  "node_modules/@nuxt/ui-templates/dist/templates/error-404.css": {
+    "resourceType": "style",
+    "file": "error-404.23f2309d.css",
+    "src": "node_modules/@nuxt/ui-templates/dist/templates/error-404.css"
   },
   "node_modules/nuxt/dist/app/entry.css": {
     "resourceType": "style",
@@ -53,7 +53,7 @@ const client_manifest = {
   "virtual:nuxt:/home/runner/work/shinycolors-step-knowhow-manager/shinycolors-step-knowhow-manager/main/front/.nuxt/error-component.mjs": {
     "resourceType": "script",
     "module": true,
-    "file": "error-component.42a914c5.js",
+    "file": "error-component.cb32965a.js",
     "src": "virtual:nuxt:/home/runner/work/shinycolors-step-knowhow-manager/shinycolors-step-knowhow-manager/main/front/.nuxt/error-component.mjs",
     "isDynamicEntry": true,
     "imports": [
@@ -67,7 +67,7 @@ const client_manifest = {
   "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue": {
     "resourceType": "script",
     "module": true,
-    "file": "error-500.ef611959.js",
+    "file": "error-500.eb1457ac.js",
     "src": "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -84,7 +84,7 @@ const client_manifest = {
   "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue": {
     "resourceType": "script",
     "module": true,
-    "file": "error-404.64a38ae8.js",
+    "file": "error-404.64032eb1.js",
     "src": "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -101,7 +101,7 @@ const client_manifest = {
   "node_modules/nuxt/dist/app/entry.mjs": {
     "resourceType": "script",
     "module": true,
-    "file": "entry.c979ac83.js",
+    "file": "entry.a07b8ff3.js",
     "src": "node_modules/nuxt/dist/app/entry.mjs",
     "isEntry": true,
     "dynamicImports": [
