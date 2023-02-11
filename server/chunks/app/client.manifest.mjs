@@ -35,25 +35,25 @@ const client_manifest = {
     "file": "primeicons.5e10f102.svg",
     "src": "node_modules/primeicons/fonts/primeicons.svg"
   },
-  "node_modules/@nuxt/ui-templates/dist/templates/error-500.css": {
-    "resourceType": "style",
-    "file": "error-500.aa16ed4d.css",
-    "src": "node_modules/@nuxt/ui-templates/dist/templates/error-500.css"
-  },
   "node_modules/@nuxt/ui-templates/dist/templates/error-404.css": {
     "resourceType": "style",
     "file": "error-404.23f2309d.css",
     "src": "node_modules/@nuxt/ui-templates/dist/templates/error-404.css"
   },
+  "node_modules/@nuxt/ui-templates/dist/templates/error-500.css": {
+    "resourceType": "style",
+    "file": "error-500.aa16ed4d.css",
+    "src": "node_modules/@nuxt/ui-templates/dist/templates/error-500.css"
+  },
   "node_modules/nuxt/dist/app/entry.css": {
     "resourceType": "style",
-    "file": "entry.1f415e30.css",
+    "file": "entry.cde6f379.css",
     "src": "node_modules/nuxt/dist/app/entry.css"
   },
   "virtual:nuxt:/home/runner/work/shinycolors-step-knowhow-manager/shinycolors-step-knowhow-manager/main/front/.nuxt/error-component.mjs": {
     "resourceType": "script",
     "module": true,
-    "file": "error-component.e2910457.js",
+    "file": "error-component.42a914c5.js",
     "src": "virtual:nuxt:/home/runner/work/shinycolors-step-knowhow-manager/shinycolors-step-knowhow-manager/main/front/.nuxt/error-component.mjs",
     "isDynamicEntry": true,
     "imports": [
@@ -67,7 +67,7 @@ const client_manifest = {
   "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue": {
     "resourceType": "script",
     "module": true,
-    "file": "error-500.18b8ba22.js",
+    "file": "error-500.ef611959.js",
     "src": "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -84,7 +84,7 @@ const client_manifest = {
   "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue": {
     "resourceType": "script",
     "module": true,
-    "file": "error-404.0c12bb99.js",
+    "file": "error-404.64a38ae8.js",
     "src": "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -101,14 +101,14 @@ const client_manifest = {
   "node_modules/nuxt/dist/app/entry.mjs": {
     "resourceType": "script",
     "module": true,
-    "file": "entry.4fac4fbf.js",
+    "file": "entry.c979ac83.js",
     "src": "node_modules/nuxt/dist/app/entry.mjs",
     "isEntry": true,
     "dynamicImports": [
       "virtual:nuxt:/home/runner/work/shinycolors-step-knowhow-manager/shinycolors-step-knowhow-manager/main/front/.nuxt/error-component.mjs"
     ],
     "css": [
-      "entry.1f415e30.css"
+      "entry.cde6f379.css"
     ],
     "assets": [
       "color.473bc8ca.png",
@@ -119,8 +119,8 @@ const client_manifest = {
       "primeicons.5e10f102.svg"
     ]
   },
-  "entry.1f415e30.css": {
-    "file": "entry.1f415e30.css",
+  "entry.cde6f379.css": {
+    "file": "entry.cde6f379.css",
     "resourceType": "style"
   },
   "color.473bc8ca.png": {
