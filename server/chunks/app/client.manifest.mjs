@@ -1,25 +1,25 @@
 const client_manifest = {
-  "_CommonHeader.0a68303f.js": {
+  "_CommonHeader.bbe5f799.js": {
     "resourceType": "script",
     "module": true,
-    "file": "CommonHeader.0a68303f.js",
+    "file": "CommonHeader.bbe5f799.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.mjs",
-      "_composables.362e118b.js"
+      "_composables.2dcf7d54.js"
     ]
   },
-  "_composables.362e118b.js": {
+  "_composables.2dcf7d54.js": {
     "resourceType": "script",
     "module": true,
-    "file": "composables.362e118b.js",
+    "file": "composables.2dcf7d54.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.mjs"
     ]
   },
-  "_data.4f865759.js": {
+  "_data.16ab4364.js": {
     "resourceType": "script",
     "module": true,
-    "file": "data.4f865759.js",
+    "file": "data.16ab4364.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.mjs"
     ]
@@ -35,10 +35,10 @@ const client_manifest = {
     "css": [
       "error-404.23f2309d.css"
     ],
-    "file": "error-404.9a17c911.js",
+    "file": "error-404.e7b638eb.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.mjs",
-      "_composables.362e118b.js"
+      "_composables.2dcf7d54.js"
     ],
     "isDynamicEntry": true,
     "src": "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue"
@@ -58,10 +58,10 @@ const client_manifest = {
     "css": [
       "error-500.aa16ed4d.css"
     ],
-    "file": "error-500.438441a4.js",
+    "file": "error-500.89b0f749.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.mjs",
-      "_composables.362e118b.js"
+      "_composables.2dcf7d54.js"
     ],
     "isDynamicEntry": true,
     "src": "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue"
@@ -92,7 +92,7 @@ const client_manifest = {
     "dynamicImports": [
       "virtual:nuxt:/home/runner/work/shinycolors-step-knowhow-manager/shinycolors-step-knowhow-manager/main/front/.nuxt/error-component.mjs"
     ],
-    "file": "entry.95aac362.js",
+    "file": "entry.fa15379d.js",
     "isEntry": true,
     "src": "node_modules/nuxt/dist/app/entry.mjs"
   },
@@ -169,11 +169,11 @@ const client_manifest = {
   "pages/character-max-level-summary.vue": {
     "resourceType": "script",
     "module": true,
-    "file": "character-max-level-summary.352b8b98.js",
+    "file": "character-max-level-summary.1debebe4.js",
     "imports": [
-      "_CommonHeader.0a68303f.js",
+      "_CommonHeader.bbe5f799.js",
       "node_modules/nuxt/dist/app/entry.mjs",
-      "_composables.362e118b.js"
+      "_composables.2dcf7d54.js"
     ],
     "isDynamicEntry": true,
     "src": "pages/character-max-level-summary.vue"
@@ -181,12 +181,12 @@ const client_manifest = {
   "pages/display-each-knowhow.vue": {
     "resourceType": "script",
     "module": true,
-    "file": "display-each-knowhow.3534a6a6.js",
+    "file": "display-each-knowhow.de6d7050.js",
     "imports": [
-      "_CommonHeader.0a68303f.js",
+      "_CommonHeader.bbe5f799.js",
       "node_modules/nuxt/dist/app/entry.mjs",
-      "_composables.362e118b.js",
-      "_data.4f865759.js"
+      "_composables.2dcf7d54.js",
+      "_data.16ab4364.js"
     ],
     "isDynamicEntry": true,
     "src": "pages/display-each-knowhow.vue"
@@ -194,12 +194,12 @@ const client_manifest = {
   "pages/index.vue": {
     "resourceType": "script",
     "module": true,
-    "file": "index.2ea051e2.js",
+    "file": "index.bf2b0813.js",
     "imports": [
-      "_CommonHeader.0a68303f.js",
+      "_CommonHeader.bbe5f799.js",
       "node_modules/nuxt/dist/app/entry.mjs",
-      "_composables.362e118b.js",
-      "_data.4f865759.js"
+      "_composables.2dcf7d54.js",
+      "_data.16ab4364.js"
     ],
     "isDynamicEntry": true,
     "src": "pages/index.vue"
@@ -207,11 +207,11 @@ const client_manifest = {
   "pages/usage.vue": {
     "resourceType": "script",
     "module": true,
-    "file": "usage.2f6d3062.js",
+    "file": "usage.13969415.js",
     "imports": [
-      "_CommonHeader.0a68303f.js",
+      "_CommonHeader.bbe5f799.js",
       "node_modules/nuxt/dist/app/entry.mjs",
-      "_composables.362e118b.js"
+      "_composables.2dcf7d54.js"
     ],
     "isDynamicEntry": true,
     "src": "pages/usage.vue"
@@ -223,7 +223,7 @@ const client_manifest = {
       "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue",
       "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue"
     ],
-    "file": "error-component.cfae2157.js",
+    "file": "error-component.e59cf697.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.mjs"
     ],
