@@ -1,33 +1,33 @@
 const client_manifest = {
-  "_CommonHeader.3574ddb7.js": {
+  "_CommonHeader.0e747cbc.js": {
     "resourceType": "script",
     "module": true,
-    "file": "CommonHeader.3574ddb7.js",
+    "file": "CommonHeader.0e747cbc.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.mjs",
-      "_composables.02c0f05e.js"
+      "_composables.34fa2422.js"
     ]
   },
-  "_KnowhowBookInfoTableRow.84c5a6b2.js": {
+  "_KnowhowBookInfoTableRow.8a36b18d.js": {
     "resourceType": "script",
     "module": true,
-    "file": "KnowhowBookInfoTableRow.84c5a6b2.js",
+    "file": "KnowhowBookInfoTableRow.8a36b18d.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.mjs"
     ]
   },
-  "_composables.02c0f05e.js": {
+  "_composables.34fa2422.js": {
     "resourceType": "script",
     "module": true,
-    "file": "composables.02c0f05e.js",
+    "file": "composables.34fa2422.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.mjs"
     ]
   },
-  "_index.750bd062.js": {
+  "_index.65c8512e.js": {
     "resourceType": "script",
     "module": true,
-    "file": "index.750bd062.js",
+    "file": "index.65c8512e.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.mjs"
     ]
@@ -40,10 +40,10 @@ const client_manifest = {
   "layouts/default.vue": {
     "resourceType": "script",
     "module": true,
-    "file": "default.faf58409.js",
+    "file": "default.bd99d2da.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.mjs",
-      "_composables.02c0f05e.js"
+      "_composables.34fa2422.js"
     ],
     "isDynamicEntry": true,
     "src": "layouts/default.vue"
@@ -59,10 +59,10 @@ const client_manifest = {
     "css": [
       "error-404.23f2309d.css"
     ],
-    "file": "error-404.fe34b613.js",
+    "file": "error-404.a3fcfcd0.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.mjs",
-      "_composables.02c0f05e.js"
+      "_composables.34fa2422.js"
     ],
     "isDynamicEntry": true,
     "src": "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue"
@@ -82,10 +82,10 @@ const client_manifest = {
     "css": [
       "error-500.aa16ed4d.css"
     ],
-    "file": "error-500.c03efd6f.js",
+    "file": "error-500.adad0082.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.mjs",
-      "_composables.02c0f05e.js"
+      "_composables.34fa2422.js"
     ],
     "isDynamicEntry": true,
     "src": "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue"
@@ -117,7 +117,7 @@ const client_manifest = {
       "layouts/default.vue",
       "virtual:nuxt:/home/runner/work/shinycolors-step-knowhow-manager/shinycolors-step-knowhow-manager/main/front/.nuxt/error-component.mjs"
     ],
-    "file": "entry.cee26d15.js",
+    "file": "entry.a3b43c71.js",
     "isEntry": true,
     "src": "node_modules/nuxt/dist/app/entry.mjs"
   },
@@ -194,13 +194,13 @@ const client_manifest = {
   "pages/character-max-level-summary.vue": {
     "resourceType": "script",
     "module": true,
-    "file": "character-max-level-summary.5866ede9.js",
+    "file": "character-max-level-summary.033d050c.js",
     "imports": [
-      "_CommonHeader.3574ddb7.js",
-      "_index.750bd062.js",
+      "_CommonHeader.0e747cbc.js",
+      "_index.65c8512e.js",
       "node_modules/nuxt/dist/app/entry.mjs",
       "_index.8bb442f6.js",
-      "_composables.02c0f05e.js"
+      "_composables.34fa2422.js"
     ],
     "isDynamicEntry": true,
     "src": "pages/character-max-level-summary.vue"
@@ -208,12 +208,12 @@ const client_manifest = {
   "pages/display-each-knowhow.vue": {
     "resourceType": "script",
     "module": true,
-    "file": "display-each-knowhow.a9de5007.js",
+    "file": "display-each-knowhow.c0860bbb.js",
     "imports": [
-      "_CommonHeader.3574ddb7.js",
-      "_index.750bd062.js",
+      "_CommonHeader.0e747cbc.js",
+      "_index.65c8512e.js",
       "node_modules/nuxt/dist/app/entry.mjs",
-      "_composables.02c0f05e.js"
+      "_composables.34fa2422.js"
     ],
     "isDynamicEntry": true,
     "src": "pages/display-each-knowhow.vue"
@@ -221,14 +221,14 @@ const client_manifest = {
   "pages/index.vue": {
     "resourceType": "script",
     "module": true,
-    "file": "index.ca546c2e.js",
+    "file": "index.680e717e.js",
     "imports": [
-      "_CommonHeader.3574ddb7.js",
+      "_CommonHeader.0e747cbc.js",
       "node_modules/nuxt/dist/app/entry.mjs",
-      "_KnowhowBookInfoTableRow.84c5a6b2.js",
-      "_index.750bd062.js",
+      "_KnowhowBookInfoTableRow.8a36b18d.js",
+      "_index.65c8512e.js",
       "_index.8bb442f6.js",
-      "_composables.02c0f05e.js"
+      "_composables.34fa2422.js"
     ],
     "isDynamicEntry": true,
     "src": "pages/index.vue"
@@ -236,13 +236,13 @@ const client_manifest = {
   "pages/step-bring-in-test.vue": {
     "resourceType": "script",
     "module": true,
-    "file": "step-bring-in-test.4a2771da.js",
+    "file": "step-bring-in-test.aff63527.js",
     "imports": [
-      "_CommonHeader.3574ddb7.js",
-      "_KnowhowBookInfoTableRow.84c5a6b2.js",
-      "_index.750bd062.js",
+      "_CommonHeader.0e747cbc.js",
+      "_KnowhowBookInfoTableRow.8a36b18d.js",
+      "_index.65c8512e.js",
       "node_modules/nuxt/dist/app/entry.mjs",
-      "_composables.02c0f05e.js"
+      "_composables.34fa2422.js"
     ],
     "isDynamicEntry": true,
     "src": "pages/step-bring-in-test.vue"
@@ -250,11 +250,11 @@ const client_manifest = {
   "pages/usage.vue": {
     "resourceType": "script",
     "module": true,
-    "file": "usage.359e6383.js",
+    "file": "usage.c54e46c7.js",
     "imports": [
-      "_CommonHeader.3574ddb7.js",
+      "_CommonHeader.0e747cbc.js",
       "node_modules/nuxt/dist/app/entry.mjs",
-      "_composables.02c0f05e.js"
+      "_composables.34fa2422.js"
     ],
     "isDynamicEntry": true,
     "src": "pages/usage.vue"
@@ -266,7 +266,7 @@ const client_manifest = {
       "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue",
       "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue"
     ],
-    "file": "error-component.8e3d20d4.js",
+    "file": "error-component.9c63814b.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.mjs"
     ],
