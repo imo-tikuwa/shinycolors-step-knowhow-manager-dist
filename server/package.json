@@ -14,8 +14,8 @@
     "radix3": "1.0.0",
     "pathe": "1.1.0",
     "scule": "1.0.0",
-    "ohash": "1.0.0",
     "ufo": "1.0.1",
+    "ohash": "1.0.0",
     "vue-bundle-renderer": "1.0.1",
     "vue": "3.2.47",
     "unenv": "1.1.1",
@@ -33,6 +33,6 @@
     "@vue/runtime-core": "3.2.47",
     "estree-walker": "2.0.2",
     "@vue/reactivity": "3.2.47",
-    "@babel/parser": "7.20.13"
+    "@babel/parser": "7.23.4"
   }
 }
