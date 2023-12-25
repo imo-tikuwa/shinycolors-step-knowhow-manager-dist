@@ -31,8 +31,8 @@
     "@vue/runtime-dom": "3.2.47",
     "@vue/compiler-core": "3.2.47",
     "@vue/runtime-core": "3.2.47",
-    "estree-walker": "2.0.2",
     "@vue/reactivity": "3.2.47",
+    "estree-walker": "2.0.2",
     "@babel/parser": "7.23.4"
   }
 }
